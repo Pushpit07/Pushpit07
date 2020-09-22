@@ -3,6 +3,7 @@
 A developer from India
 
 
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 <!--
 **Pushpit07/Pushpit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
