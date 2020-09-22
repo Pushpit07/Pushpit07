@@ -9,6 +9,7 @@
 * Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of web series
 <br/>
 <br/>
+
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/pushpit-bhardwaj/">
