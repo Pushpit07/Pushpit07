@@ -8,6 +8,10 @@
 <a href="mailto: pushpit07@gmail.com">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCw4SG-Bh3H1cARcvaWabzlQ/videos">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 <!--
 **Pushpit07/Pushpit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
