@@ -50,8 +50,10 @@
 <br/>
 <br/>
 
-> Note
+
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpit07&layout=compact" alt="pushpit07" /></p>  
-  
+ 
+ > Note : Top languages does not indicate my skill level in that particular language, it's a GitHub metric of which languages I have the most code on GitHub
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpit07&show_icons=true" alt="pushpit07" /></p>
