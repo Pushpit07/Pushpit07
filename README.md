@@ -1,5 +1,5 @@
-### Hi there 👋
-[![HitCount](http://hits.dwyl.com/Pushpit07/Pushpit07.svg)](http://hits.dwyl.com/Pushpit07/Pushpit07)
+# Hi there 👋
+
 <!--
 **Pushpit07/Pushpit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
