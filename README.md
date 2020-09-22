@@ -5,6 +5,8 @@ A developer from India
 
 <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=pushpit07@gmail.com&logoColor=white" />
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/pushpit-bhardwaj/" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/simpleicons.svg" />
 <!--
 **Pushpit07/Pushpit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
