@@ -25,19 +25,13 @@
 <a href="mailto: pushpit07@gmail.com">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://dev.to/pushpit07" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pushpit07" height="30" width="30" />
+</a> 
+<a href="https://twitter.com/pushpit14" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pushpit14" height="30" width="30" />
+</a>
 
-
-
-
-
-<p align="center">  
-<a href="https://dev.to/pushpit07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pushpit07" height="30" width="30" /></a>  
-<a href="https://twitter.com/pushpit14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pushpit14" height="30" width="30" /></a>  
-<a href="https://linkedin.com/in/pushpit-bhardwaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pushpit-bhardwaj" height="30" width="30" /></a>  
-<a href="https://fb.com/pushpit.bhardwaj.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pushpit.bhardwaj.7" height="30" width="30" /></a>  
-<a href="https://instagram.com/pushpit._.07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pushpit._.07" height="30" width="30" /></a>  
-<a href="https://www.youtube.com/c/ucw4sg-bh3h1carcvawabzlq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucw4sg-bh3h1carcvawabzlq" height="30" width="30" /></a>  
-</p>
 
 
 > Note
