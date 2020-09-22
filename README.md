@@ -40,6 +40,9 @@
 <a href="https://twitter.com/pushpit14">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pushpit14" height="30" width="30" />
 </a>
+<a href="https://www.coursera.org/user/79cf53f169d1556e4b4d1e5d5d4e9bfb">
+  <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />
+</a>
 
 <br/>
 <br/>
