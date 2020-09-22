@@ -26,15 +26,19 @@
 <a href="https://www.instagram.com/pushpit._.07/">
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+&nbsp;
 <a href="mailto: pushpit07@gmail.com">
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+&nbsp;
 <a href="https://dev.to/pushpit07">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pushpit07" height="30" width="30" />
 </a> 
+&nbsp;
 <a href="https://twitter.com/pushpit14">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pushpit14" height="30" width="30" />
 </a>
+
 <br/>
 <br/>
 <br/>
@@ -45,6 +49,7 @@
 
 <br/>
 <br/>
+
 > Note
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpit07&layout=compact" alt="pushpit07" /></p>  
