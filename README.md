@@ -2,6 +2,8 @@
 
 <p align="center">A developer from India</p>
 
+<br/>
+
 * I’m currently working on **MrktDB** which is a website that shows data related to US based HedgeFunds
 * Currently learning Django and React JS
 * Looking to collaborate on Web Development projects
@@ -71,7 +73,7 @@
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpit07&layout=compact" alt="pushpit07" /></p>  
 
- > Note : Top languages do not indicate my skill level in that particular language, it's a GitHub metric of which languages I have the most code on GitHub
+ > Note : Most used languages do not indicate my skill level in them, it's a GitHub metric of which languages do I have the most code on GitHub
  <br/>
  
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pushpit07&show_icons=true" alt="pushpit07" /></p>
