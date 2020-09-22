@@ -1,4 +1,4 @@
-# Hello! I'm Pushpit
+<h1 align="center">Hello! I'm Pushpit</h1>
 
 A developer from India
 
