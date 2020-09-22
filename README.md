@@ -14,14 +14,15 @@
 <a href="https://www.linkedin.com/in/pushpit-bhardwaj/">
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-extra &nbsp;&nbsp; space
+&nbsp;
 <a href="https://www.youtube.com/channel/UCw4SG-Bh3H1cARcvaWabzlQ/videos">
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-extra &nbsp; space
+&nbsp;
 <a href="https://www.facebook.com/pushpit.bhardwaj.7/">
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+&nbsp;
 <a href="https://www.instagram.com/pushpit._.07/">
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
