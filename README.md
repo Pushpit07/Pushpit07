@@ -1,15 +1,13 @@
 <h1 align="center">Hello! I'm Pushpit</h1>
 
-A developer from India
+<p align="center">A developer from India</p>
 
-
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=pushpit07@gmail.com&logoColor=white" />
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/pushpit-bhardwaj/" />
 <a href="https://www.linkedin.com/in/pushpit-bhardwaj/">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a><a href="https://www.linkedin.com/in/pushpit-bhardwaj/">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto: pushpit07@gmail.com">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <!--
 **Pushpit07/Pushpit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
