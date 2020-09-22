@@ -8,7 +8,6 @@
 * Ask me about Bootstrap, HTML, CSS, Python
 * Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of web series
 <br/>
-<br/>
 
 ## Connect with me
 
@@ -33,7 +32,7 @@
 <a href="https://twitter.com/pushpit14">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pushpit14" height="30" width="30" />
 </a>
-
+<br/>
 <br/>
 <br/>
 
