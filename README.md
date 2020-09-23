@@ -83,9 +83,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=pushpit07&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark" alt="pushpit07" /></p>
 
 
-<p align="left">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=dark)](https://github.com/Pushpit07/best_online_courses)</p>
+<div align="left">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=dark)](https://github.com/Pushpit07/best_online_courses)</div>
 
-<p align="right">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark)](https://github.com/Pushpit07/CS50-AI)</p>
+<div align="right">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark)](https://github.com/Pushpit07/CS50-AI)</div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark)](https://github.com/Pushpit07/mycapital)
 
