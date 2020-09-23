@@ -81,3 +81,6 @@
  <br/>
  
 <p><img src="https://github-readme-stats.vercel.app/api?username=pushpit07&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark" alt="pushpit07" /></p>
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses)](https://github.com/Pushpit07/best_online_courses)
