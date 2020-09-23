@@ -86,11 +86,11 @@
 <br/>
 
 <a href="https://github.com/Pushpit07/best_online_courses">
-  <img height="512" width="512" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=dark" />
+  <img height="450" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=dark" />
 </a>
 
 <a href="https://github.com/Pushpit07/CS50-AI">
-  <img align="right" height="1024" width="1024" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark" />
+  <img align="right" height="450" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark" />
 </a>
 
 <br/>
