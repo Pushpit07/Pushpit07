@@ -90,7 +90,7 @@
 </a>
 
 <a href="https://github.com/Pushpit07/CS50-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark" />
 </a>
 
 <br/>
@@ -102,7 +102,7 @@
 </a>
 
 <a href="https://github.com/Pushpit07/phoneAndEmailFinder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark" />
 </a>
 
 <br/>
