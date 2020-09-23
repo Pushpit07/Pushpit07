@@ -94,7 +94,7 @@
 </a>
 
 <a href="https://github.com/Pushpit07/mycapital">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark" />
 </a>
 
 <a href="https://github.com/Pushpit07/phoneAndEmailFinder">
@@ -102,9 +102,9 @@
 </a>
 
 <a href="https://github.com/Stock_suggestion">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark" />
 </a>
 
 <a href="https://github.com/Pushpit07/WhatsApp">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=WhatsApp&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=WhatsApp&theme=dark" />
 </a>
