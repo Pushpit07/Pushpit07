@@ -83,16 +83,16 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=pushpit07&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark" alt="pushpit07" /></p>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=vue-dark)](https://github.com/Pushpit07/best_online_courses)
+<p align="left">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=dark)](https://github.com/Pushpit07/best_online_courses)</p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark)](https://github.com/Pushpit07/CS50-AI)
+<p align="right">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark)](https://github.com/Pushpit07/CS50-AI)</p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=prussian)](https://github.com/Pushpit07/mycapital)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark)](https://github.com/Pushpit07/mycapital)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=nord)](https://github.com/Pushpit07/phoneAndEmailFinder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark)](https://github.com/Pushpit07/phoneAndEmailFinder)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dracula)](https://github.com/Stock_suggestion)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark)](https://github.com/Stock_suggestion)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=WhatsApp&theme=gotham)](https://github.com/Pushpit07/WhatsApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=WhatsApp&theme=dark)](https://github.com/Pushpit07/WhatsApp)
 
 
