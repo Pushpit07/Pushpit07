@@ -93,6 +93,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark" />
 </a>
 
+<br/>
+
 <a href="https://github.com/Pushpit07/mycapital">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark" />
 </a>
@@ -100,6 +102,8 @@
 <a href="https://github.com/Pushpit07/phoneAndEmailFinder">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark" />
 </a>
+
+<br/>
 
 <a href="https://github.com/Stock_suggestion">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark" />
