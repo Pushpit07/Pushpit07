@@ -94,6 +94,8 @@
 </a>
 
 <br/>
+<br/>
+<br/>
 
 <a href="https://github.com/Pushpit07/mycapital">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark" />
@@ -103,6 +105,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark" />
 </a>
 
+<br/>
 <br/>
 
 <a href="https://github.com/Stock_suggestion">
