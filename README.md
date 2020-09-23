@@ -93,16 +93,18 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark" />
 </a>
 
-<div align="left">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=dark)](https://github.com/Pushpit07/best_online_courses)</div>
+<a href="https://github.com/Pushpit07/mycapital">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark" />
+</a>
 
-<div align="right">[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark)](https://github.com/Pushpit07/CS50-AI)</div>
+<a href="https://github.com/Pushpit07/phoneAndEmailFinder">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark)](https://github.com/Pushpit07/mycapital)
+<a href="https://github.com/Stock_suggestion">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark)](https://github.com/Pushpit07/phoneAndEmailFinder)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark)](https://github.com/Stock_suggestion)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=WhatsApp&theme=dark)](https://github.com/Pushpit07/WhatsApp)
-
-
+<a href="https://github.com/Pushpit07/WhatsApp">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=WhatsApp&theme=dark" />
+</a>
