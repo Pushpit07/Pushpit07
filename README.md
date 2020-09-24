@@ -109,7 +109,7 @@
 <br/>
 
 <a href="https://github.com/Stock_suggestion">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark" />
 </a>
 
 <a href="https://github.com/Pushpit07/WhatsApp">
