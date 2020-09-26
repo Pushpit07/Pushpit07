@@ -47,7 +47,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ## Tools I use
 
