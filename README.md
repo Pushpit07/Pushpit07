@@ -8,7 +8,7 @@
 * Currently learning Django and React JS
 * Looking to collaborate on Web Development projects
 * Ask me about Bootstrap, HTML, CSS, Python
-* Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of web series
+* Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of movies & web series
 <br/>
 
 ## Connect with me
