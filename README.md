@@ -52,7 +52,7 @@
 ## Tools I use
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
