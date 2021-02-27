@@ -83,7 +83,7 @@
 <br/>
 
   
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpit07&layout=compact&count_private=true&langs_count=10&card_width=600&theme=vue-dark" alt="pushpit07" /></p>  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpit07&layout=compact&count_private=true&langs_count=10&hide=java&card_width=600&theme=vue-dark" alt="pushpit07" /></p>  
 
  > Note : Most used languages do not indicate my skill level in them, it's a GitHub metric of which languages do I have the most code on GitHub
  <br/>
