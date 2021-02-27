@@ -88,7 +88,7 @@
  > Note : Most used languages do not indicate my skill level in them, it's a GitHub metric of which languages do I have the most code on GitHub
  <br/>
  
-<p><img src="https://github-readme-stats.vercel.app/api?username=pushpit07&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="pushpit07" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=pushpit07&show_icons=true&count_private=true&theme=vue-dark" alt="pushpit07" /></p>
 
 <br/>
 
