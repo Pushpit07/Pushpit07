@@ -77,7 +77,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>&nbsp;
 </p>  
 
 <br/>
