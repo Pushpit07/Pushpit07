@@ -4,8 +4,7 @@
 
 <br/>
 
-<br/>
-<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250"></p>
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="350"></p>
 
 * I’m currently working on **MrktDB** which is a website that shows data related to US based HedgeFunds
 * Currently learning Django and React
