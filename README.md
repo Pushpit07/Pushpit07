@@ -2,7 +2,7 @@
 
 <p align="center">A developer from India</p>
 
-<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="450"></p>
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
 
 * I’m currently working on **MrktDB** which is a website that shows data related to US based HedgeFunds
 * Currently learning Django and React
