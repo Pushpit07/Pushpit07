@@ -88,7 +88,7 @@
  > Note : Most used languages do not indicate my skill level in them, it's a GitHub metric of which languages do I have the most code on GitHub
  <br/>
  
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpit07&&theme=vue-dark&&hide_border=false&&show_icons=true"/>|</p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpit07&&theme=vue-dark&&hide_border=false&&show_icons=true"/></p>
  
  <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pushpit07&line_height=30&custom_title=Wakatime%20Weekly%20Stats&theme=vue-dark" alt="Weekly Stats" /></p>
  
