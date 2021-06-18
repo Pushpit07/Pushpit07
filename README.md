@@ -5,7 +5,7 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="320"></p>
 
 * Currently working in the domain of Blockchain Dapp development, Machine Learning, and Cloud Computing
-* Creator of **HashPuppies**, **BeatShare**, and **PolyHarmony**
+* Creator of <a href="http://www.hashpuppies.in" target="_blank">**HashPuppies**</a>, <a href="http://www.beatshare.in" target="_blank">**BeatShare**</a>, and <a href="http://www.polyharmony.in" target="_blank">**PolyHarmony**</a>
 * Maintainer of <a href="http://www.mrktdb.com" target="_blank">**MrktDB**</a>, which is a website that shows analysed data related to US based HedgeFunds
 * Looking to collaborate on Web Development projects
 * Ask me about Blockchain, Solidity, Python, Django, React, Bootstrap, HTML, CSS
