@@ -6,7 +6,7 @@
 
 * Currently working in the domain of Blockchain Dapp development, Machine Learning, and Cloud Computing
 * Creator of **HashPuppies**, **BeatShare**, and **PolyHarmony**
-* Maintainer of <a href="mrktdb.com">**MrktDB**</a> which is a website that shows data related to US based HedgeFunds
+* Maintainer of <a href="http://www.mrktdb.com" target="_blank">**MrktDB**</a> which is a website that shows data related to US based HedgeFunds
 * Looking to collaborate on Web Development projects
 * Ask me about Blockchain, Solidity, Python, Django, React, Bootstrap, HTML, CSS
 * Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of movies & web series
