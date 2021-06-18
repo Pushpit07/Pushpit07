@@ -4,10 +4,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="320"></p>
 
-* I’m currently working on **MrktDB** which is a website that shows data related to US based HedgeFunds
-* Currently learning Django and React
+* Currently working in the domain of Blockchain Dapp development, Machine Learning, and Cloud Computing
+* Creator of **HashPuppies**, **BeatShare**, and **PolyHarmony**
+* Maintainer of <a href="mrktdb.com">**MrktDB**</a> which is a website that shows data related to US based HedgeFunds
 * Looking to collaborate on Web Development projects
-* Ask me about Bootstrap, HTML, CSS, Python, Django, React
+* Ask me about Blockchain, Solidity, Python, Django, React, Bootstrap, HTML, CSS
 * Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of movies & web series
 <br/>
 
@@ -62,9 +63,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" alt="aws" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp&nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>&nbsp; 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>&nbsp;
@@ -104,12 +105,12 @@
 
 ## Some of my Repositories
 
-<a href="https://github.com/Pushpit07/best_online_courses">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=best_online_courses&theme=dark" />
+<a href="https://github.com/Pushpit07/HashPuppies">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=HashPuppies&theme=dark" />
 </a>
 
-<a href="https://github.com/Pushpit07/CS50-AI">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=CS50-AI&theme=dark" />
+<a href="https://github.com/Pushpit07/RedStreetBets">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=RedStreetBets&theme=dark" />
 </a>
 
 <br/>
@@ -119,18 +120,18 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=mycapital&theme=dark" />
 </a>
 
-<a href="https://github.com/Pushpit07/phoneAndEmailFinder">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=phoneAndEmailFinder&theme=dark" />
+<a href="https://github.com/Pushpit07/BeatShare">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=BeatShare&theme=dark" />
 </a>
 
 <br/>
 <br/>
 
 
-<a href="https://github.com/Stock_suggestion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=Stock_suggestion&theme=dark" />
+<a href="https://github.com/vulnerablecode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=vulnerablecode&theme=dark" />
 </a>
 
-<a href="https://github.com/Pushpit07/WhatsApp">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=WhatsApp&theme=dark" />
+<a href="https://github.com/Pushpit07/PolyHarmony">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushpit07&repo=PolyHarmony&theme=dark" />
 </a>
