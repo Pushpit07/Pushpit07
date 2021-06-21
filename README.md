@@ -11,7 +11,7 @@
 * Looking to collaborate on Web Development projects
 * Ask me about Blockchain, Cryptocurrencies, Solidity, Python, Django, React, Bootstrap, HTML, CSS
 * Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of movies & web series
-
+<br/>
 
 ## Connect with me
 
