@@ -12,7 +12,7 @@
 * Maintainer of <a href="http://www.mrktdb.com" target="_blank">**MrktDB**</a>, which is a website that provides analysed stock market data related to US based HedgeFunds
 * Looking to collaborate on Web Development projects
 * Ask me about Blockchain, Cryptocurrencies, Solidity, Python, Django, React, Bootstrap, HTML, CSS
-* Fun fact : I play sports like Badminton, Football, and Table Tennis. I also watch a lot of movies & web series
+* Fun fact: I play sports like Badminton, Football, and Table Tennis. I also watch a lot of movies & web series
 <br/>
 
 ## Connect with me
