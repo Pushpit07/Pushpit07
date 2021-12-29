@@ -5,8 +5,10 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="320"></p>
 <br/>
 
-* Microsoft Learn Student Ambassador, Postman Student Expert
-* Currently working in the domain of Blockchain Dapp development, Data Science, and Cloud Computing
+* Polygon BUIDL IT 2021 Winner
+* BUIDLing <a href="https://musomatic.vercel.app/" target="_blank">**Musomatic**</a>
+* Microsoft Learn Student Ambassador, Postman Student Expert, WazirX Warrior
+* Currently working in the domain of Web3 and Blockchain dApp Development
 * Creator of <a href="https://hashpuppies.in" target="_blank">**HashPuppies**</a>, <a href="http://beatshare.in" target="_blank">**BeatShare**</a>, and <a href="http://polyharmony.in" target="_blank">**PolyHarmony**</a>
 * Maintainer of <a href="http://www.mrktdb.com" target="_blank">**MrktDB**</a>, which is a website that provides analysed stock market data related to US based HedgeFunds
 * Looking to collaborate on Web Development projects
