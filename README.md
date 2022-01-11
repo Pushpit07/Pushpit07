@@ -6,7 +6,7 @@
 <br/>
 
 * Polygon BUIDL IT 2021 Winner
-* BUIDLing <a href="https://musomatic.vercel.app/" target="_blank">**Musomatic**</a>
+* BUIDLing <a href="https://www.musixverse.com/" target="_blank">**Musixverse**</a>
 * Microsoft Learn Student Ambassador, Postman Student Expert, WazirX Warrior
 * Currently working in the domain of Web3 and Blockchain dApp Development
 * Creator of <a href="https://hashpuppies.in" target="_blank">**HashPuppies**</a>, <a href="http://beatshare.in" target="_blank">**BeatShare**</a>, and <a href="http://polyharmony.in" target="_blank">**PolyHarmony**</a>
