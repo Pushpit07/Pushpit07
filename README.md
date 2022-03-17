@@ -5,9 +5,9 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="320"></p>
 <br/>
 
-* Polygon BUIDL IT 2021 Winner
 * BUIDLing <a href="https://www.musixverse.com/" target="_blank">**Musixverse**</a>
-* Microsoft Learn Student Ambassador, Postman Student Expert, WazirX Warrior
+* Polygon BUIDL IT 2021 Winner
+* Polygon Developer Advocate, Microsoft Learn Student Ambassador, Postman Student Expert, WazirX Warrior
 * Currently working in the domain of Web3 and Blockchain dApp Development
 * Creator of <a href="https://hashpuppies.in" target="_blank">**HashPuppies**</a>, <a href="http://beatshare.in" target="_blank">**BeatShare**</a>, and <a href="http://polyharmony.in" target="_blank">**PolyHarmony**</a>
 * Maintainer of <a href="http://www.mrktdb.com" target="_blank">**MrktDB**</a>, which is a website that provides analysed stock market data related to US based HedgeFunds
