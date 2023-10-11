@@ -5,15 +5,15 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="320"></p>
 <br/>
 
-* BUIDLing <a href="https://www.musixverse.com/" target="_blank">**Musixverse**</a>
-* Polygon BUIDL IT 2021 Winner
-* Polygon Developer Advocate, Microsoft Learn Student Ambassador, Postman Student Expert, WazirX Warrior
-* Currently working in the domain of Web3 and Blockchain dApp Development
-* Creator of <a href="https://hashpuppies.in" target="_blank">**HashPuppies**</a>, <a href="http://beatshare.in" target="_blank">**BeatShare**</a>, and <a href="http://polyharmony.in" target="_blank">**PolyHarmony**</a>
+* Handling the chaos in distributed systems <a href="https://www.linkedin.com/school/tu-dresden" target="_blank">@**TU Dresden**</a>
+* Technology Lead previously <a href="https://www.musixverse.com/" target="_blank">@**Musixverse**</a>
+* 7x Hackathon 🏆
+* Chainlink Developer Expert, Polygon Developer Advocate, Microsoft Learn Student Ambassador, Postman Student Expert, WazirX Warrior
+* Currently working in the domain of Distributed Systems, Cloud Computing, Web3 and Blockchain dApp Development
 * Maintainer of <a href="http://www.mrktdb.com" target="_blank">**MrktDB**</a>, which is a website that provides analysed stock market data related to US based HedgeFunds
 * Looking to collaborate on Web Development projects
-* Ask me about Blockchain, Cryptocurrencies, Solidity, Python, Django, React, Bootstrap, HTML, CSS
-* Fun fact: I play sports like Badminton, Football, and Table Tennis. I also watch a lot of movies & web series
+* Ask me about Cloud Systems, Blockchain, Cryptocurrencies, Solidity, Python, Next.js, React, Tailwind
+* Fun fact: I play sports like Badminton, Foosball, Football, and Table Tennis. I also watch a lot of movies & web series
 <br/>
 
 ## Connect with me
