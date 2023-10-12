@@ -6,7 +6,7 @@
 <br/>
 
 * Handling the chaos in distributed systems <a href="https://www.linkedin.com/school/tu-dresden" target="_blank">@**TU Dresden**</a>
-* Building side projects during nights and weekends to make <a href="https://www.vice.com/en/article/xgdmg4/how-quit-job-early-invest-money-retire" target="_blank">**fuck you money**</a>
+* Building side projects during nights & weekends to make <a href="https://www.vice.com/en/article/xgdmg4/how-quit-job-early-invest-money-retire" target="_blank">**fuck you money**</a>
 * Full Stack Developer previously <a href="https://www.musixverse.com" target="_blank">@**Musixverse**</a> and <a href="https://autifynetwork.com" target="_blank">@**Autify Network**</a>
 * 7x Hackathon Winner 🏆
 * Chainlink Developer Expert, Polygon Developer Advocate, Microsoft Learn Student Ambassador, Postman Student Expert, WazirX Warrior
